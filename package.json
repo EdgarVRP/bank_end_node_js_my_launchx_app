@@ -1,0 +1,24 @@
+{
+  "name": "bank_end_node_js_my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarVRP/bank_end_node_js_my_launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarVRP/bank_end_node_js_my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/EdgarVRP/bank_end_node_js_my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
